@@ -8,3 +8,17 @@ body{
 			text-decoration: overline;
 			font-size: 14px;
 		}
+
+#footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 100px;
+	width: 100%;
+	color: #fff;
+	background-color: #009688;
+	padding: 0.01em 16px;
+	font-family: Verdana,sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
